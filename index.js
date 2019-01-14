@@ -20,8 +20,8 @@ function dec(n) {
   return n-1
 }
 function makeInt(n, base){
-  var 'base' = 10
- var parsed = parseInt(n, 'base')
+  base = 10
+ var parsed = parseInt(n, base)
  if (isNaN(parsed)) { return 0 }
   return parsed * 100
 }
