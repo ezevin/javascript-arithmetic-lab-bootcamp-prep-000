@@ -20,8 +20,6 @@ function dec(n) {
   return n-1
 }
 function makeINT(n) {
-  var number = n
-  console.log parseInt('n',10)
-  return n
+  
   
 }
