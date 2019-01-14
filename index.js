@@ -20,6 +20,6 @@ function dec(n) {
   return n-1
 }
 function makeINT(n) {
-  return parseInt('n', 10)
+  return n=a
   
 }
