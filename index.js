@@ -19,9 +19,9 @@ function dec(n) {
   var number = n
   return n-1
 }
-function makeInt(n){
+function makeInt(n, base){
   var number = n
- var a = parseInt(n, 10)
+ var a = parseInt(n, base)
 }
 function preserveDecimal(n) {
   var number = n
