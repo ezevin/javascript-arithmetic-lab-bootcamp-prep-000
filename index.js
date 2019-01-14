@@ -21,6 +21,7 @@ function dec(n) {
 }
 function makeInt(n, base){
   var number = n
+  var base = 10
  var a = parseInt(n, 10)
 }
 function preserveDecimal(n) {
