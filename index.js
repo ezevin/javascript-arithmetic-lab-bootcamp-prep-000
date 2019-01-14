@@ -19,7 +19,7 @@ function dec(n) {
   var number = n
   return n-1
 }
-function makeInt(n, 10){
+function makeInt(n){
  var parsed = parseInt(n, 10)
  if (isNaN(parsed)) { return 0 }
   return parsed * 100
