@@ -21,5 +21,8 @@ function dec(n) {
 }
 function makeInt(n) {
   var number = n
-  
+}
+function makeInt(n){
+  var number = n
+  var a = parseInt(n, 10)
 }
