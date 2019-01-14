@@ -19,3 +19,6 @@ function dec(n) {
   var number = n
   return n-1
 }
+function makeINT(n) {
+  
+}
