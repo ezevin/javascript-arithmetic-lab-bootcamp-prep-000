@@ -23,7 +23,7 @@ function makeInt(n){
  var integer = parseInt(n)
  var parsed = parseInt(n, 10)
  if NaN { return true }
- else return parsed
+ else {return parsed}
 }
 function preserveDecimal(n) {
   var number = n
