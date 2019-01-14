@@ -20,7 +20,7 @@ function dec(n) {
   return n-1
 }
 function makeINT(n) {
-  var number=parseInt(a)
-  return n=a
+  var n=parseInt(n)
+  return n
   
 }
