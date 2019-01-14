@@ -19,7 +19,7 @@ function dec(n) {
   var number = n
   return n-1
 }
-function makeInt(n, base){
+function makeInt(n, 10){
   var number = n
  var a = parseInt(n, base)
 }
