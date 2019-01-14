@@ -19,9 +19,10 @@ function dec(n) {
   var number = n
   return n-1
 }
-function makeInt(n, base){
- var number = parseInt(n, base)
- var base = 10
+function makeInt(n, 10){
+ var number = parseInt(n, 10)
+ if (isNaN(parsed)) { return 0 }
+  return parsed * 100
 }
 function preserveDecimal(n) {
   var number = n
